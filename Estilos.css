@@ -54,6 +54,8 @@
     font-family: Arial, Helvetica, sans-serif;
     border: 3px solid rgb(133, 117, 117);
     background-color: aliceblue;
+    padding: 1em;
+    width: 50vw;
 
     
 }
@@ -75,9 +77,7 @@
     
 }
 
-.section {
-    width: fit-content
-}
+
 
 .footer {
     display: flex;
