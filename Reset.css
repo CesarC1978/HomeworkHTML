@@ -1,0 +1,47 @@
+
+/* Reset CSS */
+
+/* Eliminar los márgenes y rellenos predeterminados */
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, figure, figcaption, blockquote, dl, dd {
+margin: 0;
+padding: 0;
+}
+
+/* Establecer el tamaño de fuente base a 16px */
+html {
+font-size: 16px;
+}
+
+/* Establecer el estilo de fuente y color predeterminados */
+body {
+font-family: Arial, sans-serif;
+color: #333;
+}
+
+/* Restablecer el estilo de lista */
+ul, ol {
+list-style: none;
+}
+
+/* Restablecer el estilo de enlaces */
+a {
+text-decoration: none;
+color: inherit;
+}
+
+/* Restablecer el estilo de encabezados */
+h1, h2, h3, h4, h5, h6 {
+font-weight: normal;
+}
+
+/* Restablecer el estilo de elementos de formulario */
+input, textarea, select, button {
+font-family: inherit;
+}
+
+/* Restablecer el estilo de elementos de imagen */
+img {
+max-width: 100%;
+height: auto;
+}
+
